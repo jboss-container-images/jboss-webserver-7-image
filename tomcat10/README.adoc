@@ -1,7 +1,0 @@
-# Red Hat JBoss Web Server 6.2 Tomcat 10 container image
-
-NOTE: Extends link:https://catalog.redhat.com/en/software/containers/ubi9-minimal/61832888c0d15aff4912fe0d[UBI9 minimal base image]
-
-# License
-
-See link:../LICENSE[LICENSE] file.
