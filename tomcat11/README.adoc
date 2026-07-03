@@ -1,0 +1,7 @@
+# Red Hat JBoss Web Server 7.0 Tomcat 11 container image
+
+NOTE: Extends link:https://catalog.redhat.com/en/software/containers/ubi9-minimal/61832888c0d15aff4912fe0d[UBI9 minimal base image]
+
+# License
+
+See link:../LICENSE[LICENSE] file.

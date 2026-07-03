@@ -1,0 +1,13 @@
+name: "jboss-webserver-7/webserver70-openjdk21-tomcat11-rhel9"
+labels:
+    - name: "com.redhat.component"
+      value: "jboss-webserver-7-webserver70-openjdk21-tomcat11-rhel9-container"
+modules:
+      install:
+          - name: jboss.container.openjdk.jdk
+            version: "21"
+
+osbs:
+      repository:
+            name: containers/jboss-webserver-openjdk21-tomcat11
+            branch: jws-7.0-dev-rhel-9
