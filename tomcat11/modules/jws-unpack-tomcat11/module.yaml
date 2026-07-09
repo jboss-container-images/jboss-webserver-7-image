@@ -3,23 +3,23 @@ schema_version: 1
 name: jws-unpack-tomcat11
 version: "1.0"
 artifacts:
-  - name: jws-7.0.0.CR1-application-server.zip
+  - name: jws-7.0.0.CR2-application-server.zip
     target: jws-7.0.0-application-server.zip
     description: "Artifact is available on Customer Portal: https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=90341&product=webserver&version=&downloadType=distributions"
-    md5: b61c709bdb55294f9cc90ec4f0fcbe24
-  - name: jws-7.0.0.CR1-optional-native-components-RHEL9-aarch64.zip
+    md5: c4ce462f6b185a04671ba4fedc4065c0
+  - name: jws-7.0.0.CR2-optional-native-components-RHEL9-aarch64.zip
     target: jws-7.0.0-optional-native-components-RHEL9-aarch64.zip
-    md5: a8282b7b13f417dc664f29056965d64c
-  - name: jws-7.0.0.CR1-optional-native-components-RHEL9-ppc64le.zip
+    md5: f78ff571fc913838eea06c7af4eac3b9
+  - name: jws-7.0.0.CR2-optional-native-components-RHEL9-ppc64le.zip
     target: jws-7.0.0-optional-native-components-RHEL9-ppc64le.zip
-    md5: 697bfd83afc31bbd1953d9f218310e90
-  - name: jws-7.0.0.CR1-optional-native-components-RHEL9-s390x.zip
+    md5: 699ade51697c8f928bf1f0ecb2c82366
+  - name: jws-7.0.0.CR2-optional-native-components-RHEL9-s390x.zip
     target: jws-7.0.0-optional-native-components-RHEL9-s390x.zip
-    md5: 3c0318210f10397f18c840439db3ac03
-  - name: jws-7.0.0.CR1-optional-native-components-RHEL9-x86_64.zip
+    md5: 98ee87e58869b872f5acd1065b834a66
+  - name: jws-7.0.0.CR2-optional-native-components-RHEL9-x86_64.zip
     target: jws-7.0.0-optional-native-components-RHEL9-x86_64.zip
     description: "Artifact is available on Customer Portal: https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=90361&product=webserver&version=&downloadType=distributions"
-    md5: e75e01692368924331d4bd662ad41696
+    md5: 7e14a07f8e77a9b3d0a065cc3d6eb005
 packages:
   install:
     - unzip
