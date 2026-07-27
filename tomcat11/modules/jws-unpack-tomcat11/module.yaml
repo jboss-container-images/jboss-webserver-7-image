@@ -20,6 +20,9 @@ artifacts:
     target: jws-7.0.0-optional-native-components-RHEL9-x86_64.zip
     description: "Artifact is available on Customer Portal: https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=90361&product=webserver&version=&downloadType=distributions"
     md5: 7e14a07f8e77a9b3d0a065cc3d6eb005
+  - name: jws-7.0.1.ER1-application-server.zip
+    target: jws-7.0.1-application-server.zip
+    md5: af7a771f5df8a80751ec58adafd19366
 packages:
   install:
     - unzip
