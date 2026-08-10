@@ -2,4 +2,4 @@
 # Download runtimes-agent.jar
 set -e
 
-wget --no-check-certificate -O /opt/runtimes-agent.jar https://indy.corp.redhat.com/api/content/maven/hosted/pnc-builds/com/redhat/insights/runtimes-agent/1.0.3.redhat-00002/runtimes-agent-1.0.3.redhat-00002-shaded.jar
+wget --no-check-certificate -O /opt/runtimes-agent.jar https://indy.corp.redhat.com/api/content/maven/hosted/pnc-builds/com/redhat/insights/runtimes-agent/1.0.4.redhat-00002/runtimes-agent-1.0.4.redhat-00002-shaded.jar

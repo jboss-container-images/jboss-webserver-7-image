@@ -69,7 +69,7 @@ modules:
           - name: jws-unpack-tomcat11
             version: "1.0"
           - name: insights-agent
-            version: "1.0"
+            version: "1.1"
           - name: jws-chown
             version: "1.1"
           - name: jws-debugging
