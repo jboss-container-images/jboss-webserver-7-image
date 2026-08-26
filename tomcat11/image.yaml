@@ -3,7 +3,7 @@ schema_version: 1
 name: "jboss-webserver-7/webserver70-openjdk17-tomcat11-rhel9"
 description: "Red Hat JBoss Web Server 7.0 Tomcat 11 container image"
 version: "7.0.1"
-from: "registry.access.redhat.com/ubi9/ubi-minimal"
+from: "registry.redhat.io/ubi9/ubi-minimal-pqc:latest"
 labels:
     - name: "com.redhat.component"
       value: "jboss-webserver-7-webserver70-openjdk17-tomcat11-rhel9-container"
